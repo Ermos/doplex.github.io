@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>www.doplex.fr/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 28 Sep 2014 02:13:50 +0000</lastBuildDate>
     
-	<atom:link href="www.doplex.fr/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>begginers</title>
-      <link>www.doplex.fr/tags/begginers/</link>
+      <link>/tags/begginers/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>www.doplex.fr/tags/begginers/</guid>
+      <guid>/tags/begginers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blabla</title>
-      <link>www.doplex.fr/tags/blabla/</link>
+      <link>/tags/blabla/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>www.doplex.fr/tags/blabla/</guid>
+      <guid>/tags/blabla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>code</title>
-      <link>www.doplex.fr/tags/code/</link>
+      <link>/tags/code/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>www.doplex.fr/tags/code/</guid>
+      <guid>/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>www.doplex.fr/tags/javascript/</link>
+      <link>/tags/javascript/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>www.doplex.fr/tags/javascript/</guid>
+      <guid>/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>react</title>
-      <link>www.doplex.fr/tags/react/</link>
+      <link>/tags/react/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>www.doplex.fr/tags/react/</guid>
+      <guid>/tags/react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>www.doplex.fr/tags/test/</link>
+      <link>/tags/test/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>www.doplex.fr/tags/test/</guid>
+      <guid>/tags/test/</guid>
       <description></description>
     </item>
     

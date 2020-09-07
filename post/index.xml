@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>www.doplex.fr/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 28 Sep 2014 02:13:50 +0000</lastBuildDate>
     
-	<atom:link href="www.doplex.fr/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>www.doplex.fr/test-1/</link>
+      <link>/test-1/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>www.doplex.fr/test-1/</guid>
+      <guid>/test-1/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
