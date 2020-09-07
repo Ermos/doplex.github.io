@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My blog</title>
-    <link>doplex.github.io/</link>
+    <link>/</link>
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate>
     
-	<atom:link href="doplex.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>doplex.github.io/page/about/</link>
+      <link>/page/about/</link>
       <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/page/about/</guid>
+      <guid>/page/about/</guid>
       <description>About Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dolor in magna lobortis egestas. Suspendisse eu erat tempor, tristique neque eu, convallis nulla. Curabitur vel bibendum lacus, at semper mauris. Suspendisse aliquet commodo ex, sed sagittis metus aliquam id. Maecenas feugiat rutrum lorem vel imperdiet. Nullam ornare lectus ut enim finibus, et porttitor mi tincidunt. Aenean lacinia, leo quis vehicula eleifend, quam libero sagittis erat, at euismod augue mauris et sapien.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>doplex.github.io/page/contact/</link>
+      <link>/page/contact/</link>
       <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/page/contact/</guid>
+      <guid>/page/contact/</guid>
       <description>Contact Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus. Quisque hendrerit sit amet turpis eu varius. Ut id lorem ac felis ultrices tincidunt. Pellentesque consequat arcu ac fringilla imperdiet. Phasellus pellentesque, sapien non pulvinar blandit, sapien ante aliquet felis, vel porttitor sapien ante in lacus. Fusce non urna aliquet, malesuada nibh vel, luctus urna. Phasellus ut lacus molestie, varius purus quis, malesuada lorem.</description>
     </item>
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-2-copy-1/</link>
+      <link>/test-2-copy-1/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-2-copy-1/</guid>
+      <guid>/test-2-copy-1/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -41,10 +41,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-2-copy-10/</link>
+      <link>/test-2-copy-10/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-2-copy-10/</guid>
+      <guid>/test-2-copy-10/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -52,10 +52,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-2-copy-11/</link>
+      <link>/test-2-copy-11/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-2-copy-11/</guid>
+      <guid>/test-2-copy-11/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -63,10 +63,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-2-copy-12/</link>
+      <link>/test-2-copy-12/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-2-copy-12/</guid>
+      <guid>/test-2-copy-12/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -74,10 +74,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-2-copy-13/</link>
+      <link>/test-2-copy-13/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-2-copy-13/</guid>
+      <guid>/test-2-copy-13/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -85,10 +85,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-2-copy-14/</link>
+      <link>/test-2-copy-14/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-2-copy-14/</guid>
+      <guid>/test-2-copy-14/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -96,10 +96,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-2-copy-15/</link>
+      <link>/test-2-copy-15/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-2-copy-15/</guid>
+      <guid>/test-2-copy-15/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -107,10 +107,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-2-copy-16/</link>
+      <link>/test-2-copy-16/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-2-copy-16/</guid>
+      <guid>/test-2-copy-16/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -118,10 +118,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-2-copy-2/</link>
+      <link>/test-2-copy-2/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-2-copy-2/</guid>
+      <guid>/test-2-copy-2/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -129,10 +129,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-2-copy-3/</link>
+      <link>/test-2-copy-3/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-2-copy-3/</guid>
+      <guid>/test-2-copy-3/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -140,10 +140,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-2-copy-4/</link>
+      <link>/test-2-copy-4/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-2-copy-4/</guid>
+      <guid>/test-2-copy-4/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -151,10 +151,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-2-copy-5/</link>
+      <link>/test-2-copy-5/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-2-copy-5/</guid>
+      <guid>/test-2-copy-5/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -162,10 +162,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-2-copy-6/</link>
+      <link>/test-2-copy-6/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-2-copy-6/</guid>
+      <guid>/test-2-copy-6/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -173,10 +173,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-2-copy-7/</link>
+      <link>/test-2-copy-7/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-2-copy-7/</guid>
+      <guid>/test-2-copy-7/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -184,10 +184,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-2-copy-8/</link>
+      <link>/test-2-copy-8/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-2-copy-8/</guid>
+      <guid>/test-2-copy-8/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -195,10 +195,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-2-copy-9/</link>
+      <link>/test-2-copy-9/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-2-copy-9/</guid>
+      <guid>/test-2-copy-9/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -206,10 +206,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-2/</link>
+      <link>/test-2/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-2/</guid>
+      <guid>/test-2/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -217,10 +217,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-3-copy-1/</link>
+      <link>/test-3-copy-1/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-3-copy-1/</guid>
+      <guid>/test-3-copy-1/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -228,10 +228,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-3-copy-10/</link>
+      <link>/test-3-copy-10/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-3-copy-10/</guid>
+      <guid>/test-3-copy-10/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -239,10 +239,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-3-copy-11/</link>
+      <link>/test-3-copy-11/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-3-copy-11/</guid>
+      <guid>/test-3-copy-11/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -250,10 +250,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-3-copy-12/</link>
+      <link>/test-3-copy-12/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-3-copy-12/</guid>
+      <guid>/test-3-copy-12/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -261,10 +261,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-3-copy-13/</link>
+      <link>/test-3-copy-13/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-3-copy-13/</guid>
+      <guid>/test-3-copy-13/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -272,10 +272,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-3-copy-14/</link>
+      <link>/test-3-copy-14/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-3-copy-14/</guid>
+      <guid>/test-3-copy-14/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -283,10 +283,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-3-copy-15/</link>
+      <link>/test-3-copy-15/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-3-copy-15/</guid>
+      <guid>/test-3-copy-15/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -294,10 +294,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-3-copy-16/</link>
+      <link>/test-3-copy-16/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-3-copy-16/</guid>
+      <guid>/test-3-copy-16/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -305,10 +305,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-3-copy-2/</link>
+      <link>/test-3-copy-2/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-3-copy-2/</guid>
+      <guid>/test-3-copy-2/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -316,10 +316,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-3-copy-3/</link>
+      <link>/test-3-copy-3/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-3-copy-3/</guid>
+      <guid>/test-3-copy-3/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -327,10 +327,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-3-copy-4/</link>
+      <link>/test-3-copy-4/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-3-copy-4/</guid>
+      <guid>/test-3-copy-4/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -338,10 +338,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-3-copy-5/</link>
+      <link>/test-3-copy-5/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-3-copy-5/</guid>
+      <guid>/test-3-copy-5/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -349,10 +349,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-3-copy-6/</link>
+      <link>/test-3-copy-6/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-3-copy-6/</guid>
+      <guid>/test-3-copy-6/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -360,10 +360,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-3-copy-7/</link>
+      <link>/test-3-copy-7/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-3-copy-7/</guid>
+      <guid>/test-3-copy-7/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -371,10 +371,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-3-copy-8/</link>
+      <link>/test-3-copy-8/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-3-copy-8/</guid>
+      <guid>/test-3-copy-8/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -382,10 +382,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-3-copy-9/</link>
+      <link>/test-3-copy-9/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-3-copy-9/</guid>
+      <guid>/test-3-copy-9/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -393,10 +393,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Le référencement naturel avec un framework JavaScript</title>
-      <link>doplex.github.io/test-3/</link>
+      <link>/test-3/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-3/</guid>
+      <guid>/test-3/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -404,10 +404,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-1/</link>
+      <link>/test-1-copy-1/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-1/</guid>
+      <guid>/test-1-copy-1/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -415,10 +415,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-10/</link>
+      <link>/test-1-copy-10/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-10/</guid>
+      <guid>/test-1-copy-10/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -426,10 +426,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-11/</link>
+      <link>/test-1-copy-11/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-11/</guid>
+      <guid>/test-1-copy-11/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -437,10 +437,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-12/</link>
+      <link>/test-1-copy-12/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-12/</guid>
+      <guid>/test-1-copy-12/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -448,10 +448,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-13/</link>
+      <link>/test-1-copy-13/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-13/</guid>
+      <guid>/test-1-copy-13/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -459,10 +459,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-14/</link>
+      <link>/test-1-copy-14/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-14/</guid>
+      <guid>/test-1-copy-14/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -470,10 +470,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-15/</link>
+      <link>/test-1-copy-15/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-15/</guid>
+      <guid>/test-1-copy-15/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -481,10 +481,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-16/</link>
+      <link>/test-1-copy-16/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-16/</guid>
+      <guid>/test-1-copy-16/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -492,10 +492,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-2/</link>
+      <link>/test-1-copy-2/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-2/</guid>
+      <guid>/test-1-copy-2/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -503,10 +503,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-3/</link>
+      <link>/test-1-copy-3/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-3/</guid>
+      <guid>/test-1-copy-3/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -514,10 +514,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-4/</link>
+      <link>/test-1-copy-4/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-4/</guid>
+      <guid>/test-1-copy-4/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -525,10 +525,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-5/</link>
+      <link>/test-1-copy-5/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-5/</guid>
+      <guid>/test-1-copy-5/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -536,10 +536,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-6/</link>
+      <link>/test-1-copy-6/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-6/</guid>
+      <guid>/test-1-copy-6/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -547,10 +547,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-7/</link>
+      <link>/test-1-copy-7/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-7/</guid>
+      <guid>/test-1-copy-7/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -558,10 +558,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-8/</link>
+      <link>/test-1-copy-8/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-8/</guid>
+      <guid>/test-1-copy-8/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -569,10 +569,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-9/</link>
+      <link>/test-1-copy-9/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-9/</guid>
+      <guid>/test-1-copy-9/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -580,10 +580,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1/</link>
+      <link>/test-1/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1/</guid>
+      <guid>/test-1/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>

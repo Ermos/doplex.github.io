@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>react on My blog</title>
-    <link>doplex.github.io/tags/react/</link>
+    <link>/tags/react/</link>
     <description>Recent content in react on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 28 Sep 2014 02:13:50 +0000</lastBuildDate>
     
-	<atom:link href="doplex.github.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/react/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-1/</link>
+      <link>/test-1-copy-1/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-1/</guid>
+      <guid>/test-1-copy-1/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -23,10 +23,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-10/</link>
+      <link>/test-1-copy-10/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-10/</guid>
+      <guid>/test-1-copy-10/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -34,10 +34,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-11/</link>
+      <link>/test-1-copy-11/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-11/</guid>
+      <guid>/test-1-copy-11/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -45,10 +45,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-12/</link>
+      <link>/test-1-copy-12/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-12/</guid>
+      <guid>/test-1-copy-12/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -56,10 +56,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-13/</link>
+      <link>/test-1-copy-13/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-13/</guid>
+      <guid>/test-1-copy-13/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -67,10 +67,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-14/</link>
+      <link>/test-1-copy-14/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-14/</guid>
+      <guid>/test-1-copy-14/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -78,10 +78,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-15/</link>
+      <link>/test-1-copy-15/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-15/</guid>
+      <guid>/test-1-copy-15/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -89,10 +89,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-16/</link>
+      <link>/test-1-copy-16/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-16/</guid>
+      <guid>/test-1-copy-16/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -100,10 +100,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-2/</link>
+      <link>/test-1-copy-2/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-2/</guid>
+      <guid>/test-1-copy-2/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -111,10 +111,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-3/</link>
+      <link>/test-1-copy-3/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-3/</guid>
+      <guid>/test-1-copy-3/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -122,10 +122,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-4/</link>
+      <link>/test-1-copy-4/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-4/</guid>
+      <guid>/test-1-copy-4/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -133,10 +133,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-5/</link>
+      <link>/test-1-copy-5/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-5/</guid>
+      <guid>/test-1-copy-5/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -144,10 +144,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-6/</link>
+      <link>/test-1-copy-6/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-6/</guid>
+      <guid>/test-1-copy-6/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -155,10 +155,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-7/</link>
+      <link>/test-1-copy-7/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-7/</guid>
+      <guid>/test-1-copy-7/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -166,10 +166,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-8/</link>
+      <link>/test-1-copy-8/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-8/</guid>
+      <guid>/test-1-copy-8/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -177,10 +177,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1-copy-9/</link>
+      <link>/test-1-copy-9/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1-copy-9/</guid>
+      <guid>/test-1-copy-9/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
@@ -188,10 +188,10 @@ Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec u
     
     <item>
       <title>Test</title>
-      <link>doplex.github.io/test-1/</link>
+      <link>/test-1/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>doplex.github.io/test-1/</guid>
+      <guid>/test-1/</guid>
       <description>Lorem ipsum dolor sit amet,
 consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
 Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
