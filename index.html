@@ -16,7 +16,7 @@
     <meta name="robots" content="index,follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <link rel="stylesheet" href="/scss/main.min.css" media="screen">
+    <link rel="stylesheet" href="/scss/main.min.css" integrity="" media="screen">
     
    <link href="/index.xml" rel="alternate" type="application/rss+xml">
     
@@ -44,9 +44,18 @@
             
             
             
-            <a title="Blog"
+            <a title="Home"
                href="/"
                class="navigation__item active"
+            >Home</a>
+            
+            
+            
+            
+            
+            <a title="Blog"
+               href="/post/"
+               class="navigation__item "
             >Blog</a>
             
             
@@ -62,15 +71,6 @@
             
             
             
-            <a title="About me"
-               href="/about-me/"
-               class="navigation__item "
-            >About me</a>
-            
-            
-            
-            
-            
             <a title="Contact"
                href="/contact/"
                class="navigation__item "
@@ -79,160 +79,52 @@
         </nav>
     </div>
 </header>
-<div class="app__main">
-    <main class="content blog interface__resize">
-        <article class="blog__articles">
-
-
-<section class="block articles">
-    <h2 class="articles__title">
-        <a href="/test-1/">Test</a>
-    </h2>
-    <ul class="articles__tags">
-        
-        <li><a href="/tags/react">#react</a> </li>
-        
-        <li><a href="/tags/javascript">#javascript</a> </li>
-        
-        <li><a href="/tags/begginers">#begginers</a> </li>
-        
-        <li><a href="/tags/code">#code</a> </li>
-        
-        <li><a href="/tags/blabla">#blabla</a> </li>
-        
-        <li><a href="/tags/test">#test</a> </li>
-        
-    </ul>
-    <div class="articles__relate">
-        
-        <button class="articles__relate-item">
-            <a href="/category/javascript">Category #javascript</a>
-        </button>
-        
-        
-        <button class="articles__relate-item">
-            <a href="/series/learn-javascript">Series "learn javascript"</a>
-        </button>
-        
-    </div>
-    <p class="articles__short-desc">
-        A step by step guide to configuring a router to assign a static DHCP IP address in your LAN to the Raspberry Pi.
-    </p>
-    <div class="articles__footer">
-        <time class="articles__create-at" datetime='2014-09-28'>Sun, Sep 28, 2014</time>
-        <p class="articles__time-to-read">2 min read</p>
-    </div>
-</section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<section class="pagination">
-    
-    
-    <span class="pagination__child pagination__blocked">«</span>
-    <span class="pagination__child pagination__blocked">‹</span>
-    
-
-    
-
-    
-    
-
-    
-
-
-    
-    
-
-    
-
-    
-
-    
-    
-
-    
-    <span class="pagination__child pagination__active">1</span>
-    
-
-    
-
-    
-
-    
-    
-
-    
-    <span class="pagination__child pagination__blocked">›</span>
-    <span class="pagination__child pagination__blocked">»</span>
-    
-</section>
-</article>
-<aside class="blog__finder">
-    <section class="block aside__text">
-        <p class="aside__text-title">Welcome to my portfolio 👋</p>
-        <p class="aside__text-p">You will find here articles on all and nothing, even if my primary theme is web technologies.</p>
-        <p class="aside__text-p">You will probably also find a lot of writing mistakes.. I'm not dyslexic, I'm just a french trying to write in english (yeah it's same 👻)</p>
-        <p class="aside__text-p">If you are interesed in a particular topic, take a look at the series or tags below.</p>
+<main class="portfolio__body">
+    <section class="portfolio__content">
+        <aside class="portfolio__aside">
+            <img class="portfolio__avatar" alt="Kilian SMITI" src="/images/avatar.jpeg"/>
+            <h1 class="portfolio__full-name">Kilian SMITI</h1>
+            <p class="portfolio__job">Full-Stack Developer</p>
+        </aside>
+        <article class="portfolio__article">
+            <h2 class="biography__title">Hey ! 👋</h2>
+            <p class="biography__p">
+                I'm <b>Kilian SMITI</b>, a french developer passionate about web technologies since his childhood.
+                I started building websites when I was ten year old and I decided to make it my job.
+            </p>
+            <p class="biography__p">
+                Currently, I'm <b>Full-Stack Developer</b> for <b>Free (Iliad)</b> 🚀, one of the main French telecommunications operators.
+                I work on many internal applications, whether it is on invoicing tools, or civil engineering management tools,
+                I have no trouble getting to grips with a subject.
+            </p>
+            <p class="biography__p">
+                I master many langage and framework, for the front-end, I master <b>HTML</b>, <b>CSS</b> (with pre-processor like <b>Sass</b>),
+                <b>Javascript</b> and some framework like <b>Vue.js</b>, <b>React</b> and <b>Electron</b>.
+                For back-end langages, I master <b>Golang</b>, <b>PHP</b>, <b>Node.js</b> and
+                some framework specialy in PHP like <b>Symfony</b> and <b>Laravel</b>.
+            </p>
+            <p class="biography__p">
+                I'm also working with several tool like <b>Docker</b>, <b>Webpack</b>, <b>Typescript</b>, <b>ESLint</b> and <b>Git</b>.
+            </p>
+        </article>
     </section>
-    <section class="block aside__text">
-        <h2 class="block__title">Series</h2>
-        <ul class="aside__list">
-            
-            <li>
-                <a href="/series/learn-javascript/">
-                    <span class="tag-article__content">learn javascript</span>
-                </a>
-            </li>
-            
-        </ul>
-    </section>
-    <section class="flex-wrap-center">
-        
-        <a href="/tags/begginers/" class="article__tag">
-            <button class="article__btn tag__btn">begginers</button>
-        </a>
-        
-        <a href="/tags/blabla/" class="article__tag">
-            <button class="article__btn tag__btn">blabla</button>
-        </a>
-        
-        <a href="/tags/code/" class="article__tag">
-            <button class="article__btn tag__btn">code</button>
-        </a>
-        
-        <a href="/tags/javascript/" class="article__tag">
-            <button class="article__btn tag__btn">javascript</button>
-        </a>
-        
-        <a href="/tags/react/" class="article__tag">
-            <button class="article__btn tag__btn">react</button>
-        </a>
-        
-        <a href="/tags/test/" class="article__tag">
-            <button class="article__btn tag__btn">test</button>
-        </a>
-        
-    </section>
-</aside>
 </main>
-</div>
+<section class="portfolio__content">
+    <aside class="portfolio__aside">
+        <h2 class="last_posts">Last Posts</h2>
+    </aside>
+    <article class="portfolio__article">
+        
+        <a class="last-posts__title" href="/post/how-to-build-a-listing-s-module/">How to build a listing&#39;s module that can communicate with an API</a>
+        <p class="biography__p">
+            A step by step guide to build a complete listing&#39;s module that can communicate with an API
+        </p>
+        
+    </article>
+</section>
 <footer class="footer">
     <div id="jump-top" class="footer__back-to-top"></div>
 </footer>
 <script src="/js/app.js"></script>
 </body>
 </html>
-

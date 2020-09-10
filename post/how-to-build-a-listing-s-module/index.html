@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>
+        How to build a listing&#39;s module that can communicate with an API  &middot; 
+        Kilian Smiti
+        
+    </title>
+    <meta name="description" content="A step by step guide to build a complete listing&#39;s module that can communicate with an API">
+    <meta name="HandheldFriendly" content="True">
+    <link rel="icon" type="image/png" href="/images/favicon.png" />
+    <meta name="MobileOptimized" content="320">
+    <meta name="generator" content="Hugo 0.74.3" />
+    <meta name="robots" content="index,follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="/scss/main.min.css" integrity="" media="screen">
+    
+</head>
+<body>
+<header class="header">
+    <div class="header__content">
+        <a href="/" title="Home" class="header__title">
+            <img alt="Kilian SMITI" class="header__avatar" src="/images/avatar.jpeg"/>
+            <div class="header__chevron">›</div>
+            <div class="header__logo">
+                <div class="logo">
+                    KILIAN SMITI<span>.</span>
+                </div>
+                <div class="logo-desc">
+                    <p class="logo-desc__text">I'm a <i id="logo-desc"></i></p>
+                    <span></span>
+                </div>
+            </div>
+        </a>
+        <nav class="header__navigation">
+            
+            
+            
+            
+            
+            
+            <a title="Home"
+               href="/"
+               class="navigation__item "
+            >Home</a>
+            
+            
+            
+            
+            
+            <a title="Blog"
+               href="/post/"
+               class="navigation__item active"
+            >Blog</a>
+            
+            
+            
+            
+            
+            <a title="Projects"
+               href="/projects/"
+               class="navigation__item "
+            >Projects</a>
+            
+            
+            
+            
+            
+            <a title="Contact"
+               href="/contact/"
+               class="navigation__item "
+            >Contact</a>
+            
+        </nav>
+    </div>
+</header>
+<div class="app__main">
+    <main class="app__main">
+        <article class="article">
+            <section class="article__header" style="background-image: url('/images/articles/header-listing.png')">
+                <div class="article__header-content interface__resize">
+                    <h1 class="article__title">How to build a listing&#39;s module that can communicate with an API</h1>
+                    <p class="article__description">
+                        A step by step guide to build a complete listing&#39;s module that can communicate with an API
+                    </p>
+                </div>
+                <div class="interface__resize interface__resize--no-padding">
+                    <div class="article__header-bottom interface__resize">
+                        <time datetime='2020-09-10'>Thu, Sep 10, 2020</time>
+                        <p>3 min read</p>
+                    </div>
+                </div>
+            </section>
+            <section class="interface__resize interface__resize--no-padding">
+                <div class="article__content">
+                    <p>Sometime, it&rsquo;s hard to visualize how to build a process, in this article,
+we will see how to build a complete listing&rsquo;s module from scratch.</p>
+<p>For illustrate examples, I&rsquo;m going to use <code>Golang</code> and <code>VueJS</code>.</p>
+<h1 id="conventional-data-format">Conventional data format</h1>
+<p>First, we have to see from the API before seeing from the Front.
+We need a good conventional data format that can be used by
+listing&rsquo;s module for any object else we go drop in a fall of
+verification frontside.</p>
+<p>Let&rsquo;s show what a listing&rsquo;s module look like :</p>
+<p><img src="/images/articles/listing.jpeg" alt="Listing"></p>
+<p>It is a very basic listing&rsquo;s interface,
+we have a header with filter&rsquo;s possibility
+and some rows.</p>
+<p>I coming back on the front&rsquo;s implementation later, I show you that only
+for have a visual representation, so let&rsquo;s focus on the data format !</p>
+<p>After all, no one data format is the best, make you&rsquo;re own choice,
+I&rsquo;m just going to present you one way of doing.</p>
+<h2 id="meta">Meta</h2>
+<p>First good practice, it&rsquo;s to include <code>meta-data</code> in you&rsquo;re result.
+Why ? We will see this.</p>
+<h3 id="meta-data-example">Meta Data Example</h3>
+<div class="highlight"><div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4">
+<table style="border-spacing:0;padding:0;margin:0;border:0;width:auto;overflow:auto;display:block;"><tr><td style="vertical-align:top;padding:0;margin:0;border:0;">
+<pre style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1
+</span><span style="display:block;width:100%;background-color:#3d3f4a"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 2
+</span></span><span style="display:block;width:100%;background-color:#3d3f4a"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 3
+</span></span><span style="display:block;width:100%;background-color:#3d3f4a"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 4
+</span></span><span style="display:block;width:100%;background-color:#3d3f4a"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 5
+</span></span><span style="display:block;width:100%;background-color:#3d3f4a"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 6
+</span></span><span style="display:block;width:100%;background-color:#3d3f4a"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 7
+</span></span><span style="display:block;width:100%;background-color:#3d3f4a"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 8
+</span></span><span style="display:block;width:100%;background-color:#3d3f4a"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 9
+</span></span><span style="display:block;width:100%;background-color:#3d3f4a"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">10
+</span></span><span style="display:block;width:100%;background-color:#3d3f4a"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">11
+</span></span><span style="display:block;width:100%;background-color:#3d3f4a"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">12
+</span></span><span style="display:block;width:100%;background-color:#3d3f4a"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">13
+</span></span><span style="display:block;width:100%;background-color:#3d3f4a"><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">14
+</span></span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">15
+</span><span style="margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">16
+</span></code></pre></td>
+<td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+<pre style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-json" data-lang="json">{
+<span style="display:block;width:100%;background-color:#3d3f4a">    <span style="color:#ff79c6">&#34;meta&#34;</span>: {
+</span><span style="display:block;width:100%;background-color:#3d3f4a">        <span style="color:#ff79c6">&#34;header&#34;</span>: {
+</span><span style="display:block;width:100%;background-color:#3d3f4a">            <span style="color:#ff79c6">&#34;id&#34;</span>: {
+</span><span style="display:block;width:100%;background-color:#3d3f4a">                <span style="color:#ff79c6">&#34;name&#34;</span>: <span style="color:#f1fa8c">&#34;ID&#34;</span>,
+</span><span style="display:block;width:100%;background-color:#3d3f4a">                <span style="color:#ff79c6">&#34;type&#34;</span>: <span style="color:#f1fa8c">&#34;number&#34;</span>
+</span><span style="display:block;width:100%;background-color:#3d3f4a">            },
+</span><span style="display:block;width:100%;background-color:#3d3f4a">            <span style="color:#ff79c6">&#34;first_name&#34;</span>: {
+</span><span style="display:block;width:100%;background-color:#3d3f4a">                <span style="color:#ff79c6">&#34;name&#34;</span>: <span style="color:#f1fa8c">&#34;First Name&#34;</span>,
+</span><span style="display:block;width:100%;background-color:#3d3f4a">                <span style="color:#ff79c6">&#34;type&#34;</span>: <span style="color:#f1fa8c">&#34;string&#34;</span>
+</span><span style="display:block;width:100%;background-color:#3d3f4a">            },
+</span><span style="display:block;width:100%;background-color:#3d3f4a">            ...
+</span><span style="display:block;width:100%;background-color:#3d3f4a">        },
+</span><span style="display:block;width:100%;background-color:#3d3f4a">        <span style="color:#ff79c6">&#34;nb_line&#34;</span>: <span style="color:#bd93f9">23594</span>,
+</span>  <span style="color:#ff79c6">&#34;body&#34;</span>: [ ... ]
+}
+</code></pre></td></tr></table>
+</div>
+</div><p>Like you can see, I have added a <code>meta</code> object where I store all
+information about my request. In this, I have inside an object called
+<code>header</code>, that contain all my fields with their definition.
+For example, if you want add a reference&rsquo;s key system, you can add
+a field named <code>reference</code> and pass the reference&rsquo;s key in this.</p>
+<p>The utility about that, you can use this in you&rsquo;re front for some feature.</p>
+<p>For <code>reference</code>'s example, you want make an autocomplete module, and you want use it on
+<code>Business</code>'s field, you&rsquo;re default request is :</p>
+<h3 id="get-user-structure-from-database">Get User Structure from Database</h3>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#ff79c6">SELECT</span>
+    <span style="color:#ff79c6">user</span>.id,
+    <span style="color:#ff79c6">user</span>.mail,
+    business.name
+<span style="color:#ff79c6">FROM</span>
+    <span style="color:#ff79c6">user</span>
+<span style="color:#ff79c6">LEFT</span> <span style="color:#ff79c6">JOIN</span>
+    business <span style="color:#ff79c6">ON</span> business.business_id <span style="color:#ff79c6">=</span> <span style="color:#ff79c6">user</span>.business_id
+</code></pre></div><p>Ok, now, on the listing&rsquo;s interface,
+you search with autocomplete&rsquo;s feature a business.
+You&rsquo;re autocomplete&rsquo;s route give you a data like that :</p>
+<h3 id="suggestion-result-format">Suggestion result format</h3>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-json" data-lang="json">[
+  {
+    <span style="color:#ff79c6">&#34;plain&#34;</span>: <span style="color:#f1fa8c">&#34;Twitter&#34;</span>,
+    <span style="color:#ff79c6">&#34;value&#34;</span>: <span style="color:#f1fa8c">&#34;Twitter&#34;</span>
+  } 
+]
+</code></pre></div><p>The modified request will look like :</p>
+<h3 id="get-user-structure-from-database-with-custom-query">Get User Structure from Database with custom query</h3>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sql" data-lang="sql"><span style="color:#ff79c6">SELECT</span>
+    <span style="color:#ff79c6">user</span>.id,
+    <span style="color:#ff79c6">user</span>.mail,
+    business.name
+<span style="color:#ff79c6">FROM</span>
+    <span style="color:#ff79c6">user</span>
+<span style="color:#ff79c6">LEFT</span> <span style="color:#ff79c6">JOIN</span>
+    business <span style="color:#ff79c6">ON</span> business.business_id <span style="color:#ff79c6">=</span> <span style="color:#ff79c6">user</span>.business_id
+<span style="color:#ff79c6">WHERE</span>
+    business.name <span style="color:#ff79c6">=</span> <span style="color:#f1fa8c">&#34;Twitter&#34;</span>
+</code></pre></div><p>Clearly, this is not optimize. So <code>Reference</code>'s key come to the party,
+We will map the <code>business.name</code>'s value to the <code>business.business_id</code>'s value
+and when we will build the request,
+<code>WHERE</code> condition will used <code>business.business_id</code> instead of <code>business.name</code>.</p>
+<p>I hope you understand the utility to have meta description of you&rsquo;re field.
+We will come back to it below, on his implementation.</p>
+<h2 id="queries">Queries</h2>
+<p>When you use field&rsquo;s filter, you need to say that to you&rsquo;re API, but who ?</p>
+<p>Pass condition to you&rsquo;re API can be complicated, more when you want do that
+for get data. But we don&rsquo;t have many option, let&rsquo;s see who do that.</p>
+<p>First, when we ask data to an API, we use the <code>GET</code> flag,
+if you have already think about pass data to the body, it&rsquo;s possible,
+but it&rsquo;s a very bad practice,
+don&rsquo;t do that (you can find explication about that <a href="https://tools.ietf.org/html/rfc2616#section-4.3">here</a>).</p>
+<p>So, what we do ?</p>
+<p>We have only one possibility, it&rsquo;s to play with <code>queries</code>.</p>
+<p>In this article, I will show you a basic example, but you can find more complex
+queries system here :</p>
+<ul>
+<li><a href="https://restdb.io/docs/querying-with-the-api">RestDB : Querying with the api</a></li>
+<li><a href="https://www.moesif.com/blog/technical/api-design/REST-API-Design-Best-Practices-for-Parameters-and-Query-String-Usage/">Moesif : Basic design for query and parameters</a></li>
+</ul>
+<h1 id="wip">WIP</h1>
+<p>Codepen : <a href="https://codepen.io/Doplex/pen/mdPxjBO">https://codepen.io/Doplex/pen/mdPxjBO</a></p>
+
+                </div>
+            </section>
+            <section class="interface__resize">
+                
+                <div class="article-module--split">
+                    <div class="article-module">
+                        <h3 class="article-module__title">Same theme</h3>
+                        
+                        <a href="tags/javascript" class="article__tag">
+                            <button class="article__btn tag__btn">javascript</button>
+                        </a>
+                        
+                        <a href="tags/api" class="article__tag">
+                            <button class="article__btn tag__btn">api</button>
+                        </a>
+                        
+                        <a href="tags/golang" class="article__tag">
+                            <button class="article__btn tag__btn">golang</button>
+                        </a>
+                        
+                        <a href="tags/vuejs" class="article__tag">
+                            <button class="article__btn tag__btn">vuejs</button>
+                        </a>
+                        
+                    </div>
+                    <div class="article-module">
+                        <h3 class="article-module__title">Share</h3>
+                        <div class="article__share">
+                            <button class="article__btn share__btn">
+                                <i class="share__icon fab fa-twitter-square"></i><span>Twitter</span>
+                            </button>
+                            <button class="article__btn share__btn">
+                                <i class="share__icon fab fa-linkedin"></i><span>Linkedin</span>
+                            </button>
+                            <button class="article__btn share__btn">
+                                <i class="share__icon fab fa-facebook-square"></i><span>Facebook</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                
+                <h3 class="article-module__title">Share your opinion</h3>
+                <div class="article__comment">
+                    <div id="disqus_thread"></div>
+                    <script>
+
+                        
+
+                        
+
+                        (function() { 
+                            var d = document, s = d.createElement('script');
+                            s.src = 'https://doplex.disqus.com/embed.js';
+                            s.setAttribute('data-timestamp', +new Date());
+                            (d.head || d.body).appendChild(s);
+                        })();
+                    </script>
+                    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                </div>
+                
+            </section>
+        </article>
+
+    </main>
+</div>
+<footer class="footer">
+    <div id="jump-top" class="footer__back-to-top"></div>
+</footer>
+<script src="/js/app.js"></script>
+</body>
+</html>

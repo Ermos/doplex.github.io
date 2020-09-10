@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
+    <title>Blog on </title>
     <link>/post/</link>
-    <description>Recent content in Posts on </description>
+    <description>Recent content in Blog on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 28 Sep 2014 02:13:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test</title>
-      <link>/test-1/</link>
-      <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
+      <title>How to build a listing&#39;s module that can communicate with an API</title>
+      <link>/post/how-to-build-a-listing-s-module/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0200</pubDate>
       
-      <guid>/test-1/</guid>
-      <description>Lorem ipsum dolor sit amet,
-consectetur adipiscing elit. Nam maximus viverra augue, sed lacinia libero lobortis sit amet. Etiam elit velit, rutrum tempus luctus vitae, egestas quis nisi. Ut velit erat, sollicitudin sit amet ultrices non, consequat sed quam. Pellentesque volutpat commodo sagittis. Cras rutrum nisi vel vestibulum convallis.
-Aliquam eget ultricies dolor. Morbi et sapien in neque malesuada hendrerit nec ut magna. Duis vulputate aliquet nibh, at porttitor neque maximus a.</description>
+      <guid>/post/how-to-build-a-listing-s-module/</guid>
+      <description>Sometime, it&amp;rsquo;s hard to visualize how to build a process, in this article, we will see how to build a complete listing&amp;rsquo;s module from scratch.
+For illustrate examples, I&amp;rsquo;m going to use Golang and VueJS.
+Conventional data format First, we have to see from the API before seeing from the Front. We need a good conventional data format that can be used by listing&amp;rsquo;s module for any object else we go drop in a fall of verification frontside.</description>
     </item>
     
   </channel>

@@ -5,19 +5,9 @@
     <link>/category/</link>
     <description>Recent content in Category on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 28 Sep 2014 02:13:50 +0000</lastBuildDate>
     
 	<atom:link href="/category/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>javascript</title>
-      <link>/category/javascript/</link>
-      <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
-      
-      <guid>/category/javascript/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

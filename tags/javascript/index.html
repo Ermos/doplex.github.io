@@ -16,7 +16,7 @@
     <meta name="robots" content="index,follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <link rel="stylesheet" href="/scss/main.min.css" media="screen">
+    <link rel="stylesheet" href="/scss/main.min.css" integrity="" media="screen">
     
    <link href="/tags/javascript/index.xml" rel="alternate" type="application/rss+xml">
     
@@ -44,8 +44,17 @@
             
             
             
-            <a title="Blog"
+            <a title="Home"
                href="/"
+               class="navigation__item "
+            >Home</a>
+            
+            
+            
+            
+            
+            <a title="Blog"
+               href="/post/"
                class="navigation__item "
             >Blog</a>
             
@@ -57,15 +66,6 @@
                href="/projects/"
                class="navigation__item "
             >Projects</a>
-            
-            
-            
-            
-            
-            <a title="About me"
-               href="/about-me/"
-               class="navigation__item "
-            >About me</a>
             
             
             
@@ -86,41 +86,29 @@
 
 <section class="block articles">
     <h2 class="articles__title">
-        <a href="/test-1/">Test</a>
+        <a href="/post/how-to-build-a-listing-s-module/">How to build a listing&#39;s module that can communicate with an API</a>
     </h2>
     <ul class="articles__tags">
         
-        <li><a href="/tags/react">#react</a> </li>
-        
         <li><a href="/tags/javascript">#javascript</a> </li>
         
-        <li><a href="/tags/begginers">#begginers</a> </li>
+        <li><a href="/tags/api">#api</a> </li>
         
-        <li><a href="/tags/code">#code</a> </li>
+        <li><a href="/tags/golang">#golang</a> </li>
         
-        <li><a href="/tags/blabla">#blabla</a> </li>
-        
-        <li><a href="/tags/test">#test</a> </li>
+        <li><a href="/tags/vuejs">#vuejs</a> </li>
         
     </ul>
     <div class="articles__relate">
         
-        <button class="articles__relate-item">
-            <a href="/category/javascript">Category #javascript</a>
-        </button>
-        
-        
-        <button class="articles__relate-item">
-            <a href="/series/learn-javascript">Series "learn javascript"</a>
-        </button>
         
     </div>
     <p class="articles__short-desc">
-        A step by step guide to configuring a router to assign a static DHCP IP address in your LAN to the Raspberry Pi.
+        A step by step guide to build a complete listing&#39;s module that can communicate with an API
     </p>
     <div class="articles__footer">
-        <time class="articles__create-at" datetime='2014-09-28'>Sun, Sep 28, 2014</time>
-        <p class="articles__time-to-read">2 min read</p>
+        <time class="articles__create-at" datetime='2020-09-10'>Thu, Sep 10, 2020</time>
+        <p class="articles__time-to-read">3 min read</p>
     </div>
 </section>
 
@@ -191,38 +179,24 @@
         <h2 class="block__title">Series</h2>
         <ul class="aside__list">
             
-            <li>
-                <a href="/series/learn-javascript/">
-                    <span class="tag-article__content">learn javascript</span>
-                </a>
-            </li>
-            
         </ul>
     </section>
     <section class="flex-wrap-center">
         
-        <a href="/tags/begginers/" class="article__tag">
-            <button class="article__btn tag__btn">begginers</button>
+        <a href="/tags/api/" class="article__tag">
+            <button class="article__btn tag__btn">api</button>
         </a>
         
-        <a href="/tags/blabla/" class="article__tag">
-            <button class="article__btn tag__btn">blabla</button>
-        </a>
-        
-        <a href="/tags/code/" class="article__tag">
-            <button class="article__btn tag__btn">code</button>
+        <a href="/tags/golang/" class="article__tag">
+            <button class="article__btn tag__btn">golang</button>
         </a>
         
         <a href="/tags/javascript/" class="article__tag">
             <button class="article__btn tag__btn">javascript</button>
         </a>
         
-        <a href="/tags/react/" class="article__tag">
-            <button class="article__btn tag__btn">react</button>
-        </a>
-        
-        <a href="/tags/test/" class="article__tag">
-            <button class="article__btn tag__btn">test</button>
+        <a href="/tags/vuejs/" class="article__tag">
+            <button class="article__btn tag__btn">vuejs</button>
         </a>
         
     </section>

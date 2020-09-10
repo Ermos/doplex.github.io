@@ -5,62 +5,44 @@
     <link>/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 28 Sep 2014 02:13:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>begginers</title>
-      <link>/tags/begginers/</link>
-      <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
+      <title>api</title>
+      <link>/tags/api/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0200</pubDate>
       
-      <guid>/tags/begginers/</guid>
+      <guid>/tags/api/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>blabla</title>
-      <link>/tags/blabla/</link>
-      <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
+      <title>golang</title>
+      <link>/tags/golang/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0200</pubDate>
       
-      <guid>/tags/blabla/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>code</title>
-      <link>/tags/code/</link>
-      <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
-      
-      <guid>/tags/code/</guid>
+      <guid>/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
       <link>/tags/javascript/</link>
-      <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0200</pubDate>
       
       <guid>/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>react</title>
-      <link>/tags/react/</link>
-      <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
+      <title>vuejs</title>
+      <link>/tags/vuejs/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0200</pubDate>
       
-      <guid>/tags/react/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>/tags/test/</link>
-      <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
-      
-      <guid>/tags/test/</guid>
+      <guid>/tags/vuejs/</guid>
       <description></description>
     </item>
     
